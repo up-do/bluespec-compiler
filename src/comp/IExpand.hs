@@ -1,5 +1,5 @@
 {-# LANGUAGE CPP #-}
-{-# LANGUAGE FlexibleInstances, TypeSynonymInstances, RelaxedPolyRec, PatternGuards, ScopedTypeVariables #-}
+{-# LANGUAGE FlexibleInstances, RelaxedPolyRec, PatternGuards, ScopedTypeVariables #-}
 {-# LANGUAGE BangPatterns #-}
 -- Todo
 --  * Use a set to keep track of variable values to handle x==c1 || x==c2
