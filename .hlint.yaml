@@ -27,7 +27,6 @@
 - ignore: {name: "Redundant seq"} # 18 hints
 - ignore: {name: "Replace case with fromMaybe"} # 20 hints
 - ignore: {name: "Replace case with maybe"} # 16 hints
-- ignore: {name: "Unused LANGUAGE pragma"} # 18 hints
 - ignore: {name: "Use /="} # 2 hints
 - ignore: {name: "Use :"} # 46 hints
 - ignore: {name: "Use <$>"} # 413 hints
