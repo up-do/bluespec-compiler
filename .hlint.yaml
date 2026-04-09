@@ -37,7 +37,6 @@
 - ignore: {name: "Use =="} # 2 hints
 - ignore: {name: "Use >"} # 1 hint
 - ignore: {name: "Use >=>"} # 4 hints
-- ignore: {name: "Use LANGUAGE pragmas"} # 1 hint
 - ignore: {name: "Use all"} # 10 hints
 - ignore: {name: "Use any"} # 6 hints
 - ignore: {name: "Use any nested"} # 1 hint
