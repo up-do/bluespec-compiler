@@ -50,7 +50,6 @@
 - ignore: {name: "Use error"} # 2 hints
 - ignore: {name: "Use evalState"} # 6 hints
 - ignore: {name: "Use exitSuccess"} # 3 hints
-- ignore: {name: "Use fewer LANGUAGE pragmas"} # 1 hint
 - ignore: {name: "Use fewer imports"} # 21 hints
 - ignore: {name: "Use first"} # 5 hints
 - ignore: {name: "Use fmap"} # 16 hints
